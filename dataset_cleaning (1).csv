@@ -1,0 +1,882 @@
+location,list_price (RM),unit_price (RM)/m2,number_bedroom,number_bathroom,area(m2),type,type_encoded,location_encoded
+Johor Bahru. Johor,6064800000,18894740.0,4.0,4.0,321.0,House,3,5
+Johor Bahru. Johor,6317500000,19439850.0,5.0,5.0,325.0,House,3,5
+Johor Bahru. Johor,2786920000,12497820.0,4.0,4.0,223.0,Townhouse,6,5
+Johor Bahru. Johor,2772480000,1119100.0,4.0,5.0,2475.0,Townhouse,6,5
+Johor Bahru. Johor,4288680000,1512590.0,4.0,5.0,2833.0,Villa,7,5
+Johor Bahru. Johor,1624500000,16013960.0,4.0,3.0,10145.0,Condo,2,5
+Johor Bahru. Johor,9386000000,2043260.0,5.0,5.0,4590.0,Villa,7,5
+Johor Bahru. Johor,12635000000,3068500.0,6.0,6.0,4120.0,Villa,7,5
+Kinta. Perak,1624500000,1180470.0,3.0,3.0,1377.0,Condo,2,7
+Kuala Kangsar. Perak,566770000,404835.71428571426,3.0,2.0,1400.0,House,3,10
+Johor,2238200000,1368929.6636085627,3.0,2.0,1635.0,House,3,4
+Johor Bahru. Johor,2783310000,12100720.0,4.0,4.0,230.0,Townhouse,6,5
+Kinta. Perak,1436780000,1184080.0,3.0,2.0,1213.0,Condo,2,7
+Johor Bahru. Johor,2996300000,10089950.0,5.0,5.0,297.0,House,3,5
+Seberang Perai Utara. Pulau Pinang,1191300000,13357000.0,3.0,2.0,8918.0,House,3,22
+Johor Bahru. Johor,31768000000,45125000.0,5.0,5.0,704.0,Villa,7,5
+Kinta. Perak,848350000,1270720.0,2.0,2.0,667.0,Condo,2,7
+Kinta. Perak,2888000000,902500.0,4.0,4.0,3200.0,House,3,7
+Kinta. Perak,1624500000,985530.0,4.0,3.0,1650.0,House,3,7
+Kinta. Perak,1220180000,1018020.0,4.0,3.0,1200.0,House,3,7
+Johor Bahru. Johor,9386000000,1537860.0,38.0,38.0,6100.0,Commercial,1,5
+Kinta. Perak,2093800000,1191300.0,5.0,4.0,1760.0,House,3,7
+Kinta. Perak,696730000,786980.0,3.0,2.0,884.0,Condo,2,7
+Kinta. Perak,1220180000,487350.0,4.0,2.0,2508.0,House,3,7
+Kinta. Perak,1364580000,1075780.0,4.0,3.0,1270.0,House,3,7
+Kinta. Perak,1624500000,1158810.0,4.0,3.0,1400.0,House,3,7
+Kinta. Perak,1328480000,1231010.0,4.0,2.0,1080.0,House,3,7
+Kinta. Perak,548720000,610090.0,4.0,2.0,899.0,Apartment,0,7
+Kinta. Perak,1404290000,934990.0,4.0,4.0,1500.0,House,3,7
+Kinta. Perak,931380000,776150.0,3.0,2.0,1200.0,House,3,7
+Kinta. Perak,1797780000,584820.0,4.0,4.0,3080.0,House,3,7
+Kinta. Perak,1263500000,819470.0,3.0,2.0,1540.0,House,3,7
+Kinta. Perak,967480000,624530.0,3.0,2.0,1550.0,House,3,7
+Kinta. Perak,1516200000,1083000.0,4.0,3.0,1400.0,House,3,7
+Kinta. Perak,1003580000,743660.0,3.0,2.0,1350.0,House,3,7
+Kinta. Perak,794200000,826690.0,3.0,2.0,960.0,House,3,7
+Kinta. Perak,2707500000,1288770.0,6.0,5.0,2100.0,House,3,7
+Johor Bahru. Johor,1761680000,10068290.0,4.0,4.0,175.0,House,3,5
+Kinta. Perak,877230000,732830.0,3.0,1.0,1200.0,House,3,7
+Kinta. Perak,1010800000,934990.0,3.0,2.0,1080.0,House,3,7
+Kinta. Perak,649800000,765320.0,3.0,2.0,850.0,Apartment,0,7
+Johor Bahru. Johor,9025000000,4151333.9466421343,5.0,5.0,2174.0,Villa,7,5
+Kinta. Perak,1516200000,1379020.0,4.0,3.0,1100.0,House,3,7
+Kinta. Perak,1732800000,1119100.0,4.0,3.0,1550.0,House,3,7
+Johor Bahru. Johor,1256280000,12562800.0,3.0,2.0,100.0,Apartment,0,5
+Johor Bahru. Johor,3241780000,1010215.0202555312,4.0,4.0,3209.0,House,3,5
+Kinta. Perak,1371800000,1072170.0,4.0,3.0,1280.0,House,3,7
+Kuala Lumpur. Kuala Lumpur,1725580000,191773.7274949989,2.0,1.0,8998.0,Condo,2,12
+Johor Bahru. Johor,2093800000,13595260.0,5.0,4.0,154.0,House,3,5
+Kinta. Perak,2166000000,1032460.0,6.0,4.0,2100.0,House,3,7
+Johor Bahru. Johor,2093800000,11631420.0,5.0,4.0,180.0,House,3,5
+Johor Bahru. Johor,4620800000,808640.0,20.0,8.0,5720.0,Commercial,1,5
+Sepang. Selangor,711170000,156783.50970017636,2.0,1.0,4536.0,Condo,2,23
+Sepang. Selangor,812250000,179067.4603174603,2.0,2.0,4536.0,Condo,2,23
+Putrajaya. Putrajaya,1444000000,254001.75901495162,3.0,2.0,5685.0,Condo,2,21
+Petaling. Selangor,2137842000,263183.7990890065,3.0,3.0,8123.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1552300000,121739.47141400675,3.0,2.0,12751.0,Condo,2,12
+Putrajaya. Putrajaya,2137842000,376049.60422163585,3.0,2.0,5685.0,Condo,2,21
+Sepang. Selangor,830300000,364166.6666666666,2.0,1.0,2280.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,3971000000,2948032.6651818855,4.0,3.0,1347.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3610000000,308547.0085470085,4.0,3.0,11700.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2137842000,237590.79795510112,3.0,2.0,8998.0,Condo,2,12
+Johor Bahru. Johor,2772480000,863970.0841383609,4.0,4.0,3209.0,House,3,5
+Johor Bahru. Johor,6093680000,18898350.0,20.0,8.0,32247.0,Commercial,1,5
+Sepang. Selangor,902500000,166543.64273851263,2.0,1.0,5419.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,5776000000,641920.4267615026,2.0,2.0,8998.0,Condo,2,12
+Kuala Langat. Selangor,1624500000,68287.86413888771,4.0,3.0,23789.0,House,3,11
+Kuala Langat. Selangor,1696700000,71322.88032283829,4.0,3.0,23789.0,House,3,11
+Kinta. Perak,1039680000,945820.0,20.0,1.0,1100.0,Commercial,1,7
+Johor,1299600000,716822.945394374,3.0,2.0,1813.0,House,3,4
+Johor Bahru. Johor,11239915500,18158300.0,20.0,8.0,619.0,Commercial,1,5
+Pontian. Johor,31810439160,699437.9762532982,20.0,20.0,45480.0,commercial,8,20
+Kinta. Perak,789868000,7743450.0,4.0,2.0,102.0,House,3,7
+Johor Bahru. Johor,1942180000,14939846.153846152,3.0,2.0,130.0,House,3,5
+Johor Bahru. Johor,4620800000,1848320.0,6.0,4.0,2500.0,House,3,5
+Johor Bahru. Johor,2050480000,15772090.0,3.0,4.0,130.0,House,3,5
+Johor,2346500000,15237810.0,5.0,4.0,154.0,House,3,4
+Sepang. Selangor,902500000,166543.64273851263,3.0,2.0,5419.0,Condo,2,23
+Johor Bahru. Johor,5054000000,1621951.219512195,4.0,3.0,3116.0,House,3,5
+Johor Bahru. Johor,5054000000,18717850.0,5.0,4.0,270.0,House,3,5
+Sepang. Selangor,830300000,17876720.0,2.0,1.0,4645.0,Condo,2,23
+Sepang. Selangor,830300000,19862220.0,2.0,1.0,418.0,Condo,2,23
+Johor Bahru. Johor,3790500000,16129480.0,5.0,3.0,235.0,House,3,5
+Johor Bahru. Johor,2664180000,14479710.0,4.0,3.0,184.0,House,3,5
+Johor Bahru. Johor,4512500000,14035680.0,5.0,6.0,3215.0,House,3,5
+Johor Bahru. Johor,2490900000,10252400.0,4.0,5.0,24293.0,Townhouse,6,5
+Johor Bahru. Johor,4332000000,11645860.0,5.0,4.0,372.0,House,3,5
+Johor Bahru. Johor,2516170000,82066130.0,1.0,1.0,3066.0,Serviced Apartment,5,5
+Johor Bahru. Johor,3591950000,19414580.0,4.0,3.0,185.0,House,3,5
+Johor Bahru. Johor,1472880000,640382.6086956522,2.0,4.0,2300.0,House,3,5
+Johor Bahru. Johor,1256280000,1184080.0,3.0,1.0,1060.0,Serviced Apartment,5,5
+Johor Bahru. Johor,2230980000,9700070.0,4.0,3.0,230.0,House,3,5
+Johor Bahru. Johor,1833880000,16981440.0,4.0,4.0,108.0,House,3,5
+Johor Bahru. Johor,1480100000,13833520.0,3.0,2.0,107.0,Apartment,0,5
+Sepang. Selangor,758100000,108610.31518624643,2.0,1.0,6980.0,Serviced Apartment,5,23
+Muar. Johor,1689480000,11808310.0,3.0,2.0,14307.0,House,3,16
+Johor Bahru. Johor,1985500000,1418730.0,3.0,4.0,1400.0,House,3,5
+Sepang. Selangor,830300000,118954.15472779369,2.0,1.0,6980.0,Serviced Apartment,5,23
+Johor,2808580000,877681.25,5.0,5.0,3200.0,House,3,4
+Sepang. Selangor,1371800000,11357060.0,5.0,3.0,12077.0,Condo,2,23
+Sepang. Selangor,830300000,39710.0,2.0,1.0,21367.0,Condo,2,23
+Ulu Langat. Selangor,1083000000,12118770.0,3.0,2.0,8937.0,Condo,2,25
+Sepang. Selangor,1083000000,12118770.0,3.0,2.0,8937.0,Condo,2,23
+Johor Bahru. Johor,2129900000,13894890.0,4.0,3.0,15328.0,House,3,5
+Johor Bahru. Johor,2238200000,18652870.0,4.0,4.0,120.0,House,3,5
+Sepang. Selangor,758100000,167129.62962962964,1.0,1.0,4536.0,Condo,2,23
+Sepang. Selangor,758100000,167129.62962962964,2.0,1.0,4536.0,Condo,2,23
+Sepang. Selangor,830300000,364166.6666666666,1.0,1.0,2280.0,Condo,2,23
+Sepang. Selangor,758100000,108610.31518624643,1.0,1.0,6980.0,Serviced Apartment,5,23
+Sepang. Selangor,812250000,179067.4603174603,2.0,1.0,4536.0,Condo,2,23
+Putrajaya. Putrajaya,758100000,108610.31518624643,2.0,1.0,6980.0,Serviced Apartment,5,21
+Johor Bahru. Johor,1010800000,971090.0,4.0,2.0,1040.0,House,3,5
+Johor Bahru. Johor,606480000,11869680.0,2.0,1.0,5109.0,Apartment,0,5
+Johor,1732800000,963870.0,4.0,4.0,1800.0,House,3,4
+Ulu Langat. Selangor,711170000,100632.51733408801,2.0,1.0,7067.0,Condo,2,25
+Johor Bahru. Johor,1985500000,11154900.0,3.0,2.0,178.0,House,3,5
+Johor Bahru. Johor,2671400000,13699950.0,4.0,4.0,195.0,House,3,5
+Johor Bahru. Johor,2122680000,16714300.0,3.0,2.0,127.0,House,3,5
+Johor Bahru. Johor,425980000,9259650.0,2.0,1.0,46.0,Apartment,0,5
+Johor Bahru. Johor,3422280000,19555370.0,4.0,4.0,175.0,House,3,5
+Johor Bahru. Johor,3429500000,12750520.0,4.0,4.0,269.0,House,3,5
+Sepang. Selangor,1371800000,11357060.0,4.0,3.0,12077.0,Condo,2,23
+Sepang. Selangor,830300000,19862220.0,3.0,2.0,418.0,Condo,2,23
+Johor Bahru. Johor,1046900000,21382030.0,1.0,1.0,4896.0,Condo,2,5
+Johor Bahru. Johor,2454800000,54550710.0,1.0,1.0,45.0,Condo,2,5
+Johor Bahru. Johor,2635300000,18429050.0,3.0,2.0,143.0,House,3,5
+Putrajaya. Putrajaya,830300000,19862220.0,2.0,1.0,418.0,Condo,2,21
+Johor Bahru. Johor,1841100000,11508680.0,3.0,4.0,160.0,House,3,5
+Putrajaya. Putrajaya,830300000,17876720.0,2.0,1.0,4645.0,Condo,2,21
+Petaling. Selangor,1444000000,195293.48120097377,3.0,2.0,7394.0,Condo,2,19
+Johor Bahru. Johor,1299600000,11501460.0,3.0,3.0,113.0,Condo,2,5
+Petaling. Selangor,2137842000,263183.7990890065,3.0,2.0,8123.0,Condo,2,19
+Sepang. Selangor,1227400000,270590.82892416226,4.0,2.0,4536.0,Condo,2,23
+Seremban. Negeri Sembilan,1155200000,106391.60066310554,4.0,3.0,10858.0,Condo,2,24
+Seremban. Negeri Sembilan,1155200000,106391.60066310554,4.0,2.0,10858.0,Condo,2,24
+Johor Bahru. Johor,1371800000,12472550.0,5.0,3.0,10999.0,Condo,2,5
+Petaling. Selangor,2382600000,16544630.0,4.0,3.0,144.0,House,3,19
+Petaling. Selangor,1552300000,161849.65071421122,3.0,2.0,9591.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1516200000,18761170.0,3.0,2.0,8082.0,Condo,2,12
+Johor Bahru. Johor,8844500000,19060800.0,8.0,8.0,464.0,House,3,5
+Johor Bahru. Johor,3458380000,1570350.0,4.0,3.0,2200.0,Villa,7,5
+Johor Bahru. Johor,1245450000,1111880.0,3.0,4.0,1120.0,House,3,5
+Johor Bahru. Johor,1689480000,526481.7700218137,4.0,3.0,3209.0,House,3,5
+Petaling. Selangor,4332000000,15754040.0,5.0,5.0,275.0,Condo,2,19
+Johor Bahru. Johor,2483680000,12544750.0,4.0,3.0,198.0,House,3,5
+Johor Bahru. Johor,2274300000,12566410.0,4.0,3.0,181.0,House,3,5
+Kuala Lumpur. Kuala Lumpur,1444000000,1604444.4444444445,3.0,2.0,900.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2527000000,534475.4653130288,4.0,3.0,4728.0,Condo,2,12
+Johor Bahru. Johor,5415000000,18234110.0,5.0,5.0,297.0,House,3,5
+Johor Bahru. Johor,1570350000,489358.0554689935,4.0,3.0,3209.0,House,3,5
+Johor Bahru. Johor,11732500000,21605850.0,6.0,7.0,543.0,Villa,7,5
+Johor Bahru. Johor,11732500000,21605850.0,6.0,6.0,543.0,Villa,7,5
+Johor Bahru. Johor,3971000000,21371200.0,4.0,3.0,1858.0,Villa,7,5
+Sepang. Selangor,812250000,179067.4603174603,3.0,2.0,4536.0,Condo,2,23
+Johor Bahru. Johor,2664180000,13949040.0,4.0,3.0,191.0,House,3,5
+Kuala Lumpur. Kuala Lumpur,1963840000,218252.9450989109,1.0,1.0,8998.0,Condo,2,12
+Johor Bahru. Johor,3350080000,13136790.0,4.0,3.0,255.0,House,3,5
+Kuala Lumpur. Kuala Lumpur,2046870000,227480.55123360746,1.0,1.0,8998.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1920520000,213438.54189819962,1.0,1.0,8998.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2472850000,274822.1827072683,2.0,1.0,8998.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3111820000,345834.6299177595,2.0,1.0,8998.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2595590000,288462.9917759502,2.0,1.0,8998.0,Condo,2,12
+Putrajaya. Putrajaya,2137842000,376049.60422163585,3.0,3.0,5685.0,Condo,2,21
+Putrajaya. Putrajaya,1227400000,215901.4951627089,4.0,2.0,5685.0,Condo,2,21
+Putrajaya. Putrajaya,758100000,163207.75026910656,1.0,1.0,4645.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,2512560000,279235.3856412536,2.0,1.0,8998.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2075750000,230690.15336741498,2.0,1.0,8998.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2552270000,283648.58857523894,2.0,1.0,8998.0,Condo,2,12
+Johor Bahru. Johor,2086580000,16050060.0,5.0,4.0,130.0,House,3,5
+Kuala Lumpur. Kuala Lumpur,2209320000,245534.56323627473,2.0,1.0,8998.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2050480000,227881.75150033343,2.0,1.0,8998.0,Condo,2,12
+Johor Bahru. Johor,7400500000,16595170.0,20.0,6.0,44592.0,Commercial,1,5
+Johor Bahru. Johor,4332000000,12952680.0,20.0,2.0,33444.0,Commercial,1,5
+Johor Bahru. Johor,9927500000,6447460.0,20.0,2.0,1540.0,Commercial,1,5
+Johor Bahru. Johor,20216000000,974405.9382079336,1.0,6.0,20747.0,Commercial,1,5
+Kuala Lumpur. Kuala Lumpur,61871790000,58507270.0,10.0,10.0,105748.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,5974550000,57471200.0,10.0,10.0,10396.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,6404140000,58225690.0,10.0,10.0,10999.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,36280500000,35222770.0,10.0,10.0,102998.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,56677000000,59601100.0,10.0,10.0,95092.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,39493400000,36233570.0,10.0,10.0,1090.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,40034900000,35367170.0,10.0,10.0,113199.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,7394002000,42746010.0,10.0,10.0,17298.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,3458199500,44684580.0,10.0,10.0,7739.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,20187120000,61175060.0,10.0,10.0,32998.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,6061190000,60023470.0,10.0,10.0,10098.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,15468128000,24869290.0,10.0,10.0,62197.0,Office,4,12
+Kuala Lumpur. Kuala Lumpur,36461000000,36244400.0,10.0,10.0,100601.0,Office,4,12
+Johor Bahru. Johor,3790500000,1743560.2575896962,5.0,5.0,2174.0,Villa,7,5
+Kuala Lumpur. Kuala Lumpur,711170000,79036.45254501,2.0,1.0,8998.0,Condo,2,12
+Johor,2093800000,115820.33410775529,20.0,4.0,18078.0,Commercial,1,4
+Klang. Selangor,51487639440,27201.292154954626,10.0,10.0,1892838.0,office,9,8
+Klang. Selangor,115120261090,27201.288866068924,10.0,10.0,4232162.0,office,9,8
+Johor Bahru. Johor,3573900000,22313410.0,20.0,8.0,16016.0,Commercial,1,5
+Klang. Selangor,63632618040,27201.296289567537,10.0,10.0,2339323.0,office,9,8
+Johor Bahru. Johor,9025000000,19746700.0,20.0,8.0,457.0,Commercial,1,5
+Johor Bahru. Johor,1570350000,75690.46127150914,20.0,2.0,20747.0,Commercial,1,5
+Johor Bahru. Johor,18050000000,33351.995668859956,20.0,20.0,541197.0,commercial,8,5
+Johor Bahru. Johor,10108000000,18302700.0,20.0,8.0,55231.0,Commercial,1,5
+Johor Bahru. Johor,15251130900,3497163.7009860124,20.0,20.0,4361.0,commercial,8,5
+Kuala Lumpur. Kuala Lumpur,7581000000,20602270.0,20.0,8.0,368.0,Commercial,1,12
+Pontian. Johor,24489236420,738294.7368103708,20.0,20.0,33170.0,commercial,8,20
+Johor Bahru. Johor,35568344470,213717.3924303148,20.0,20.0,166427.0,commercial,8,5
+Seremban. Negeri Sembilan,1263500000,700340.0,4.0,4.0,1800.0,House,3,24
+Kuala Lumpur. Kuala Lumpur,1841100000,1805000.0,3.0,2.0,1021.0,Apartment,0,12
+Kinta. Perak,1620168000,10385970.0,4.0,4.0,156.0,House,3,7
+Kinta. Perak,1114768000,12118770.0,4.0,2.0,92.0,House,3,7
+Kinta. Perak,1725580000,9692850.0,4.0,4.0,178.0,House,3,7
+Kinta. Perak,705755000,9537620.0,3.0,2.0,74.0,House,3,7
+Kinta. Perak,1006756800,10837220.0,4.0,2.0,929.0,House,3,7
+Kinta. Perak,1475768000,8292170.0,4.0,4.0,178.0,House,3,7
+Penampang. Sabah,2928323700,12787439.737991266,5.0,3.0,229.0,House,3,18
+Johor,4295900000,1263500.0,4.0,4.0,3400.0,House,3,4
+Kinta. Perak,1186968000,12761350.0,4.0,2.0,93.0,House,3,7
+Papar. Sabah,1046900000,13086250.0,3.0,2.0,80.0,House,3,17
+Kinta. Perak,1877200000,10147710.0,5.0,4.0,185.0,House,3,7
+Kinta. Perak,750880000,6216420.0,3.0,2.0,12077.0,Apartment,0,7
+Kinta. Perak,1078668000,11598930.0,4.0,2.0,93.0,House,3,7
+Ulu Langat. Selangor,2888000000,1407900.0,5.0,4.0,2052.0,House,3,25
+Keningau. Sabah,1299600000,8122500.0,3.0,2.0,160.0,House,3,6
+Ulu Langat. Selangor,592040000,826690.0,3.0,1.0,715.0,Apartment,0,25
+Kuala Muda. Kedah,1371800000,8212750.0,4.0,3.0,167.0,House,3,13
+Kinta. Perak,1295268000,7710960.0,4.0,4.0,168.0,House,3,7
+Kinta. Perak,1364580000,15331670.0,3.0,2.0,89.0,House,3,7
+Penampang. Sabah,8226785680,16818990.0,5.0,6.0,48913.0,House,3,18
+Kinta. Perak,2267080000,8714540.0,5.0,4.0,26013.0,House,3,7
+Gombak. Selangor,3021570000,1711140.0,4.0,3.0,1764.0,House,3,2
+Kinta. Perak,1581180000,9884180.0,4.0,4.0,160.0,House,3,7
+Ulu Selangor. Selangor,2093800000,873620.0,4.0,3.0,2400.0,House,3,26
+Kuala Lumpur. Kuala Lumpur,2989080000,13407540.0,4.0,4.0,22296.0,House,3,12
+Gombak. Selangor,2743600000,14064560.0,4.0,3.0,19509.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,3898800000,16266660.0,4.0,4.0,23968.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,4288680000,73867820.0,1.0,1.0,5806.0,Condo,2,12
+Kinta. Perak,1292380000,13912940.0,4.0,2.0,929.0,House,3,7
+Kuala Lumpur. Kuala Lumpur,2772480000,14212570.0,4.0,3.0,19509.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,4151500000,17187210.0,4.0,4.0,24154.0,House,3,12
+Gombak. Selangor,2960200000,13277580.0,4.0,4.0,22296.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1967450000,19699770.0,3.0,2.0,9987.0,Condo,2,12
+Kinta. Perak,789868000,7729010.0,4.0,2.0,10219.0,House,3,7
+Gombak. Selangor,2989080000,13407540.0,4.0,4.0,22296.0,House,3,2
+Alor Gajah. Melaka,3249000000,106841560.0,1.0,1.0,3041.0,Condo,2,0
+Kuala Lumpur. Kuala Lumpur,3350080000,15024820.0,4.0,4.0,22296.0,House,3,12
+Gombak. Selangor,2991968000,14003190.0,4.0,4.0,21367.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,5162300000,74795590.0,1.0,1.0,6902.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1516200000,10201860.0,3.0,2.0,14864.0,Condo,2,12
+Johor Bahru. Johor,1689480000,1812220.0,3.0,2.0,933.0,Condo,2,5
+Kuala Lumpur. Kuala Lumpur,15162000000,45807290.0,4.0,5.0,331.0,Condo,2,12
+Gombak. Selangor,2815800000,14432780.0,4.0,4.0,19509.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1877344400,16324420.0,3.0,2.0,11501.0,Condo,2,12
+Gombak. Selangor,2775368000,13894890.0,4.0,3.0,19973.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1714750000,6837340.0,3.0,3.0,25083.0,Townhouse,6,12
+Kuala Lumpur. Kuala Lumpur,31768000000,53124760.0,4.0,5.0,598.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2931320000,19721430.0,4.0,4.0,14864.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,6786800000,33085650.0,5.0,5.0,20512.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3249000000,13988750.0,5.0,5.0,23225.0,House,3,12
+Gombak. Selangor,20216000000,29663370.0,8.0,8.0,68151.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,2743600000,14064560.0,4.0,3.0,19509.0,House,3,12
+Gombak. Selangor,2989108880,13988750.0,4.0,4.0,21367.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1696700000,6765140.0,3.0,3.0,25083.0,Townhouse,6,12
+Kuala Lumpur. Kuala Lumpur,2671400000,13692730.0,4.0,3.0,19509.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,6750700000,65521500.0,1.0,2.0,10303.0,Condo,2,12
+Kinta. Perak,779038000,9386000.0,3.0,2.0,83.0,House,3,7
+Gombak. Selangor,2696670000,13822690.0,4.0,3.0,19509.0,House,3,2
+Sepang. Selangor,1620890000,14602450.0,3.0,3.0,111.0,Condo,2,23
+Johor,2274300000,1476490.0,4.0,3.0,1540.0,House,3,4
+Kinta. Perak,2238200000,12165700.0,3.0,2.0,18395.0,House,3,7
+Ulu Selangor. Selangor,7220000000,1314040.0,5.0,6.0,5500.0,House,3,26
+Kuala Kangsar. Perak,1006756800,10826390.0,4.0,2.0,93.0,House,3,10
+Johor Bahru. Johor,2653350000,19602300.0,4.0,4.0,13536.0,Condo,2,5
+Johor Bahru. Johor,1137150000,17764810.0,2.0,1.0,6401.0,Condo,2,5
+Johor Bahru. Johor,1209350000,6570200.0,4.0,2.0,18403.0,Condo,2,5
+Gombak. Selangor,3898800000,21544480.0,4.0,3.0,18097.0,Condo,2,2
+Johor Bahru. Johor,3718300000,1512590.0,5.0,5.0,2457.0,House,3,5
+Kinta. Perak,1039680000,8288560.0,3.0,2.0,12542.0,House,3,7
+Ulu Langat. Selangor,3230950000,1292380.0,5.0,3.0,2500.0,House,3,25
+Johor Bahru. Johor,1119100000,12721640.0,3.0,2.0,8798.0,Apartment,0,5
+Kuala Lumpur. Kuala Lumpur,14295600000,115267300.0,3.0,3.0,12402.0,Condo,2,12
+Gombak. Selangor,1678650000,14934570.0,3.0,3.0,11241.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,3245390000,20956050.0,4.0,3.0,15486.0,Condo,2,12
+Putrajaya. Putrajaya,13898500000,1736410.0,9.0,9.0,8000.0,House,3,21
+Kuala Lumpur. Kuala Lumpur,7062062500,48572550.0,4.0,3.0,14539.0,Condo,2,12
+Johor Bahru. Johor,4079300000,1714750.0,4.0,3.0,2380.0,House,3,5
+Kinta. Perak,1292380000,7729010.0,4.0,3.0,16723.0,House,3,7
+Kinta. Perak,1942180000,8826450.0,4.0,4.0,220.0,House,3,7
+Petaling. Selangor,5746398000,46334350.0,2.0,2.0,12402.0,Condo,2,19
+Petaling. Selangor,3537800000,39099910.0,2.0,2.0,9048.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,3212900000,26042540.0,3.0,3.0,12337.0,Condo,2,12
+Johor Bahru. Johor,1263500000,20670860.0,2.0,2.0,6113.0,Condo,2,5
+Kuala Lumpur. Kuala Lumpur,14295600000,46630370.0,3.0,5.0,30657.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2202100000,14411120.0,3.0,2.0,15282.0,Condo,2,12
+Johor Bahru. Johor,1335700000,1425950.0,3.0,2.0,937.0,Condo,2,5
+Kuala Lumpur. Kuala Lumpur,9349900000,37262420.0,4.0,5.0,25092.0,Condo,2,12
+Johor Bahru. Johor,1184080000,12671100.0,3.0,2.0,9346.0,Apartment,0,5
+Gombak. Selangor,4332000000,1866370.0,5.0,5.0,2323.0,House,3,2
+Johor Bahru. Johor,1064950000,8664000.0,3.0,2.0,12291.0,Condo,2,5
+Kuala Lumpur. Kuala Lumpur,1075780000,13591650.0,3.0,2.0,7915.0,Apartment,0,12
+Johor Bahru. Johor,4404200000,12811890.0,5.0,5.0,34373.0,House,3,5
+Kinta. Perak,1436780000,5360850.0,3.0,2.0,26802.0,House,3,7
+Kinta. Perak,1263500000,9718120.0,4.0,3.0,130.0,House,3,7
+Kinta. Perak,1191300000,8324660.0,3.0,2.0,1431.0,House,3,7
+Kuala Kangsar. Perak,967480000,6310280.0,3.0,2.0,1533.0,House,3,10
+Kinta. Perak,1220180000,7855360.0,4.0,3.0,15534.0,House,3,7
+Kuala Lumpur. Kuala Lumpur,4108180000,35349120.0,3.0,3.0,11622.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1516200000,16371350.0,3.0,2.0,9262.0,Condo,2,12
+Ulu Langat. Selangor,1155200000,12981560.0,3.0,2.0,89.0,Apartment,0,25
+Kuala Lumpur. Kuala Lumpur,7942000000,31663310.0,3.0,2.0,25083.0,Condo,2,12
+Gombak. Selangor,18050000000,29890800.0,6.0,7.0,60385.0,House,3,2
+Sepang. Selangor,6498000000,21775520.0,5.0,6.0,29839.0,House,3,23
+Johor Bahru. Johor,1010800000,12876870.0,3.0,2.0,785.0,Apartment,0,5
+Kuala Lumpur. Kuala Lumpur,1913300000,18569840.0,3.0,2.0,10303.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,6477036730,33634370.0,4.0,4.0,19258.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3068500000,18349630.0,4.0,3.0,16722.0,Condo,2,12
+Seremban. Negeri Sembilan,1200985630,5093710.0,4.0,3.0,23578.0,House,3,24
+Kinta. Perak,1147980000,11548390.0,3.0,2.0,994.0,Condo,2,7
+Johor Bahru. Johor,1624500000,15782920.0,3.0,2.0,10293.0,Condo,2,5
+Kuala Lumpur. Kuala Lumpur,2884390000,23259230.0,3.0,3.0,12402.0,Condo,2,12
+Johor Bahru. Johor,1256280000,18273820.0,2.0,2.0,6875.0,Condo,2,5
+Johor Bahru. Johor,2014380000,1007190.0,4.0,4.0,2000.0,House,3,5
+Kuala Lumpur. Kuala Lumpur,1985500000,17591530.0,3.0,2.0,11287.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3610000000,31591110.0,3.0,3.0,11427.0,Condo,2,12
+Johor Bahru. Johor,5703800000,1729190.0,5.0,5.0,3300.0,House,3,5
+Johor,1220180000,1270720.0,4.0,3.0,960.0,House,3,4
+Kota Kinabalu. Sabah,1805000000,13949040.0,3.0,2.0,12941.0,House,3,9
+Kuala Lumpur. Kuala Lumpur,14440000000,30316780.0,6.0,6.0,4763.0,House,3,12
+Ulu Langat. Selangor,4151500000,12718030.0,5.0,5.0,32645.0,House,3,25
+Gombak. Selangor,5415000000,2166000.0,4.0,5.0,2500.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,938600000,11956320.0,3.0,2.0,785.0,Apartment,0,12
+Ulu Langat. Selangor,5234500000,21670830.0,4.0,4.0,24154.0,House,3,25
+Petaling. Selangor,678680000,8573750.0,3.0,2.0,7915.0,Apartment,0,19
+Putrajaya. Putrajaya,2093800000,22858520.0,3.0,2.0,916.0,Condo,2,21
+Petaling. Selangor,1444000000,15862340.0,3.0,2.0,9104.0,Condo,2,19
+Johor Bahru. Johor,2158780000,12104330.0,5.0,3.0,17837.0,House,3,5
+Petaling. Selangor,1444000000,18284650.0,3.0,2.0,7897.0,Apartment,0,19
+Petaling. Selangor,1985500000,15050090.0,4.0,3.0,13192.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1624500000,16811770.0,3.0,2.0,9662.0,Condo,2,12
+Klang. Selangor,722000000,9501520.0,3.0,2.0,7599.0,Apartment,0,8
+Johor Bahru. Johor,1480100000,16259440.0,3.0,2.0,9104.0,Apartment,0,5
+Kuala Lumpur. Kuala Lumpur,1913300000,16952560.0,3.0,2.0,11287.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3610000000,22255650.0,4.0,4.0,1622.0,Condo,2,12
+Johor Bahru. Johor,1010800000,11454530.0,3.0,2.0,8825.0,Condo,2,5
+Johor Bahru. Johor,1931350000,12230680.0,4.0,3.0,15793.0,House,3,5
+Petaling. Selangor,884450000,8815620.0,3.0,2.0,10033.0,Apartment,0,19
+Kuala Lumpur. Kuala Lumpur,1985500000,23078730.0,3.0,2.0,8603.0,Condo,2,12
+Gombak. Selangor,1656990000,1180470.0,3.0,2.0,1405.0,Condo,2,2
+Petaling. Selangor,1678650000,13627750.0,3.0,2.0,12319.0,Condo,2,19
+Petaling. Selangor,4512500000,43406640.0,3.0,2.0,10396.0,Condo,2,19
+Petaling. Selangor,898890000,9512350.0,3.0,2.0,9448.0,Apartment,0,19
+Kuala Lumpur. Kuala Lumpur,2851900000,17053640.0,4.0,3.0,16722.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1805000000,17631240.0,3.0,2.0,10238.0,Condo,2,12
+Petaling. Selangor,20216000000,29663370.0,7.0,7.0,68151.0,House,3,19
+Petaling. Selangor,1624500000,31450320.0,2.0,1.0,5165.0,Condo,2,19
+Johor Bahru. Johor,3610000000,25905360.0,4.0,3.0,13935.0,Serviced Apartment,5,5
+Kuala Lumpur. Kuala Lumpur,1371800000,13266750.0,3.0,2.0,1034.0,Condo,2,12
+Ulu Langat. Selangor,6137000000,18717850.0,5.0,4.0,32784.0,House,3,25
+Kuala Lumpur. Kuala Lumpur,4464848000,38821940.0,3.0,2.0,11501.0,Condo,2,12
+Petaling. Selangor,1945385680,12162090.0,4.0,3.0,15997.0,Condo,2,19
+Johor Bahru. Johor,1906080000,17537380.0,4.0,3.0,10869.0,House,3,5
+Petaling. Selangor,10830000000,1978280.0,8.0,8.0,5475.0,House,3,19
+Petaling. Selangor,1440390000,11259590.0,3.0,2.0,12792.0,Apartment,0,19
+Petaling. Selangor,1552300000,16761230.0,3.0,2.0,9262.0,Condo,2,19
+Klang. Selangor,1981890000,13674680.0,4.0,3.0,14492.0,House,3,8
+Petaling. Selangor,9025000000,25566020.0,5.0,6.0,35302.0,House,3,19
+Petaling. Selangor,7039500000,20158240.0,6.0,7.0,34921.0,House,3,19
+Petaling. Selangor,1155200000,13559160.0,4.0,2.0,8519.0,Condo,2,19
+Johor Bahru. Johor,6786800000,22284530.0,6.0,6.0,30453.0,House,3,5
+Kuala Lumpur. Kuala Lumpur,2418700000,23667160.0,3.0,2.0,10219.0,Condo,2,12
+Petaling. Selangor,2608354960,23894590.0,3.0,2.0,10916.0,Condo,2,19
+Petaling. Selangor,24909000000,25418010.0,6.0,7.0,980.0,House,3,19
+Ulu Langat. Selangor,6028700000,12977950.0,6.0,6.0,4645.0,House,3,25
+Sepang. Selangor,2158780000,17151110.0,5.0,3.0,12588.0,House,3,23
+Petaling. Selangor,1335700000,13071810.0,3.0,2.0,10219.0,Condo,2,19
+Klang. Selangor,2162390000,10346260.0,4.0,3.0,20903.0,House,3,8
+Petaling. Selangor,1263500000,14317260.0,3.0,2.0,8825.0,Condo,2,19
+Johor Bahru. Johor,1913300000,1039680.0,4.0,3.0,1838.0,House,3,5
+Petaling. Selangor,2346500000,17602360.0,4.0,3.0,13331.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1877200000,15775700.0,3.0,2.0,119.0,Condo,2,12
+Ulu Langat. Selangor,1184080000,14992330.0,3.0,2.0,7897.0,Apartment,0,25
+Petaling. Selangor,1804595680,11281250.0,4.0,3.0,15997.0,Condo,2,19
+Johor Bahru. Johor,2158780000,10562860.0,4.0,4.0,20438.0,House,3,5
+Gombak. Selangor,4512500000,1628110.0,4.0,3.0,2771.0,House,3,2
+Petaling. Selangor,2346500000,14032070.0,4.0,3.0,16722.0,House,3,19
+Petaling. Selangor,7581000000,20400110.0,6.0,5.0,3716.0,House,3,19
+Petaling. Selangor,794200000,8407690.0,3.0,2.0,9448.0,Apartment,0,19
+Sepang. Selangor,1436780000,1797780.0,3.0,2.0,800.0,Condo,2,23
+Petaling. Selangor,1400680000,1750850.0,3.0,2.0,800.0,Condo,2,19
+Kinta. Perak,859180000,9237990.0,4.0,2.0,93.0,House,3,7
+Kinta. Perak,1223068000,13151230.0,4.0,2.0,93.0,House,3,7
+Putrajaya. Putrajaya,902500000,16190850.0,2.0,2.0,5574.0,Condo,2,21
+Seremban. Negeri Sembilan,877230000,14530250.0,2.0,2.0,6038.0,Condo,2,24
+Kuala Lumpur. Kuala Lumpur,2779700000,13010440.0,4.0,3.0,21367.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2591980000,29064110.0,3.0,2.0,8918.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2357330000,17284680.0,3.0,3.0,13638.0,Condo,2,12
+Petaling. Selangor,1552300000,11934660.0,3.0,3.0,13006.0,Condo,2,19
+Petaling. Selangor,2707500000,30681390.0,3.0,2.0,8825.0,Condo,2,19
+Gombak. Selangor,1548690000,1104660.0,3.0,2.0,1400.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1660600000,7010620.0,4.0,4.0,23689.0,House,3,12
+Putrajaya. Putrajaya,794200000,17096960.0,2.0,2.0,4645.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,2375380000,15147560.0,4.0,3.0,15682.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2129900000,12068230.0,3.0,2.0,17651.0,Condo,2,12
+Petaling. Selangor,1985500000,12053790.0,4.0,3.0,16471.0,Condo,2,19
+Gombak. Selangor,3032400000,14190910.0,4.0,4.0,21367.0,House,3,2
+Petaling. Selangor,2635300000,2833850.0,3.0,2.0,930.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2707500000,2848290.0,3.0,2.0,950.0,Condo,2,12
+Petaling. Selangor,1552300000,11934660.0,3.0,2.0,13006.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1508980000,10151320.0,3.0,3.0,14864.0,Condo,2,12
+Ulu Langat. Selangor,1765290000,14616890.0,3.0,3.0,12077.0,Condo,2,25
+Ulu Langat. Selangor,1869980000,13855180.0,3.0,3.0,13498.0,Condo,2,25
+Gombak. Selangor,1624500000,12905750.0,3.0,2.0,12588.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1613670000,12678320.0,3.0,2.0,12727.0,Condo,2,12
+Petaling. Selangor,1624500000,12952680.0,3.0,3.0,12541.0,Condo,2,19
+Gombak. Selangor,1552300000,12331760.0,3.0,2.0,12588.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,3610000000,25266390.0,4.0,3.0,14288.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2558768000,29681420.0,3.0,2.0,8621.0,Condo,2,12
+Barat Daya. Pulau Pinang,2346500000,9689240.0,4.0,4.0,24219.0,House,3,1
+Kuala Lumpur. Kuala Lumpur,1516200000,1083000.0,3.0,2.0,1400.0,Condo,2,12
+Petaling. Selangor,1624500000,12876870.0,3.0,2.0,12616.0,Condo,2,19
+Petaling. Selangor,830300000,16252220.0,2.0,2.0,5109.0,Condo,2,19
+Petaling. Selangor,1083000000,14573570.0,2.0,2.0,7432.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1750850000,1483710.0,3.0,2.0,1180.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1805000000,6938420.0,5.0,4.0,26012.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1545080000,12140430.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2548226800,12190970.0,4.0,4.0,20903.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1913300000,17161940.0,3.0,3.0,11148.0,Condo,2,12
+Ulu Langat. Selangor,1805000000,9765050.0,4.0,3.0,18487.0,House,3,25
+Petaling. Selangor,2700280000,12638610.0,4.0,4.0,21367.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1552300000,12198190.0,3.0,2.0,12727.0,Condo,2,12
+Petaling. Selangor,2591258000,29991880.0,3.0,2.0,864.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2418700000,10414850.0,5.0,5.0,23225.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3032400000,14190910.0,4.0,4.0,21367.0,House,3,12
+Petaling. Selangor,1599230000,12750520.0,3.0,2.0,12541.0,Condo,2,19
+Ulu Langat. Selangor,1083000000,11656690.0,3.0,2.0,929.0,Condo,2,25
+Petaling. Selangor,3249000000,13988750.0,5.0,5.0,23225.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,3093048000,13941820.0,4.0,4.0,22185.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2166000000,28432360.0,3.0,2.0,7618.0,Condo,2,12
+Petaling. Selangor,902500000,12454500.0,2.0,2.0,7246.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2527000000,29407060.0,3.0,2.0,8593.0,Condo,2,12
+Kuala Selangor. Selangor,1599230000,12295660.0,3.0,2.0,13006.0,Condo,2,14
+Gombak. Selangor,3068500000,14360580.0,4.0,4.0,21367.0,House,3,2
+Gombak. Selangor,1609338000,12927410.0,3.0,2.0,12449.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1595620000,12266780.0,3.0,2.0,13006.0,Condo,2,12
+Petaling. Selangor,2989080000,13407540.0,4.0,3.0,22296.0,House,3,19
+Petaling. Selangor,2527000000,10880540.0,5.0,5.0,23225.0,Condo,2,19
+Petaling. Selangor,3321200000,13241480.0,5.0,5.0,25083.0,House,3,19
+Petaling. Selangor,2815800000,12551970.0,5.0,5.0,22435.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2710388000,30713880.0,3.0,2.0,8825.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3171746000,14920130.0,4.0,4.0,21256.0,House,3,12
+Petaling. Selangor,2960200000,13277580.0,4.0,4.0,22296.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1573238000,11140460.0,3.0,2.0,14121.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3028068000,13707170.0,4.0,4.0,22092.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2053368000,13494180.0,3.0,3.0,15217.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1498150000,1249060.0,3.0,2.0,1200.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1609338000,12927410.0,3.0,2.0,12449.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1508980000,21660000.0,3.0,2.0,6967.0,Condo,2,12
+Sepang. Selangor,1079390000,8938360.0,4.0,3.0,12077.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,2122680000,13551940.0,3.0,3.0,15663.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1599230000,12295660.0,3.0,2.0,13006.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1444000000,1602840.0,3.0,2.0,900.0,Condo,2,12
+Ulu Langat. Selangor,1765290000,15165610.0,3.0,3.0,1164.0,Condo,2,25
+Kuala Lumpur. Kuala Lumpur,1985500000,14710750.0,3.0,3.0,13498.0,Condo,2,12
+Petaling. Selangor,3140700000,14086220.0,4.0,4.0,22296.0,House,3,19
+Petaling. Selangor,902500000,13876840.0,2.0,2.0,6503.0,Condo,2,19
+Petaling. Selangor,1624500000,12490600.0,3.0,2.0,13006.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2779700000,11967150.0,4.0,3.0,23225.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1519088000,20963270.0,3.0,2.0,7246.0,Condo,2,12
+Petaling. Selangor,1516200000,1083000.0,3.0,2.0,1400.0,Condo,2,19
+Petaling. Selangor,1436780000,20623930.0,3.0,2.0,6967.0,Condo,2,19
+Petaling. Selangor,2888000000,1202130.0,4.0,4.0,2400.0,House,3,19
+Petaling. Selangor,1444000000,20725010.0,3.0,2.0,6967.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1913300000,20595050.0,3.0,2.0,929.0,Condo,2,12
+Petaling. Selangor,2635300000,28367380.0,3.0,2.0,929.0,Condo,2,19
+Petaling. Selangor,866400000,17663730.0,2.0,2.0,4905.0,Condo,2,19
+Gombak. Selangor,3350080000,15024820.0,4.0,4.0,22296.0,House,3,2
+Putrajaya. Putrajaya,866400000,17335220.0,2.0,2.0,4998.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,1985500000,1682260.0,3.0,2.0,1180.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2991968000,14003190.0,4.0,4.0,21367.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2707500000,2082970.0,3.0,2.0,1300.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2635300000,2833850.0,3.0,2.0,930.0,Condo,2,12
+Papar. Sabah,1086465600,13920160.0,3.0,2.0,7804.0,Condo,2,17
+Hilir Perak. Perak,722000000,801420.0,3.0,2.0,900.0,House,3,3
+Kuala Lumpur. Kuala Lumpur,1750850000,1458440.0,3.0,2.0,1200.0,Condo,2,12
+Gombak. Selangor,1606450000,12905750.0,3.0,2.0,12449.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1588400000,12757740.0,3.0,2.0,12449.0,Condo,2,12
+Petaling. Selangor,2888000000,12436450.0,4.0,4.0,23225.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2628080000,15143950.0,4.0,4.0,17354.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2739268000,13988750.0,4.0,4.0,19583.0,House,3,12
+Petaling. Selangor,1548690000,1104660.0,3.0,2.0,1400.0,Condo,2,19
+Seremban. Negeri Sembilan,1079390000,8938360.0,4.0,3.0,12077.0,Condo,2,24
+Sepang. Selangor,830300000,18696190.0,2.0,1.0,4441.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,3068500000,14360580.0,4.0,4.0,21367.0,House,3,12
+Petaling. Selangor,1403568000,1869980.0,3.0,2.0,750.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2349388000,15143950.0,4.0,3.0,15514.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1761680000,1444000.0,3.0,2.0,1220.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,722000000,7703740.0,3.0,3.0,9374.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1545080000,11880510.0,3.0,2.0,13006.0,Condo,2,12
+Petaling. Selangor,2093800000,13259530.0,3.0,3.0,15793.0,House,3,19
+Ulu Langat. Selangor,1191300000,12822720.0,3.0,2.0,929.0,Condo,2,25
+Gombak. Selangor,1083000000,11656690.0,3.0,2.0,929.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1913300000,15721550.0,3.0,3.0,1217.0,Condo,2,12
+Petaling. Selangor,1508980000,1079390.0,3.0,3.0,1400.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1547968000,12162090.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2303180000,20696130.0,3.0,3.0,11129.0,Condo,2,12
+Gombak. Selangor,1985500000,17057250.0,3.0,3.0,1164.0,Condo,2,2
+Sepang. Selangor,898890000,14230620.0,2.0,2.0,6317.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,2168888000,23627450.0,3.0,2.0,9179.0,Condo,2,12
+Petaling. Selangor,1624500000,5830150.0,3.0,3.0,2787.0,House,3,19
+Gombak. Selangor,3747180000,14468880.0,5.0,5.0,25901.0,House,3,2
+Petaling. Selangor,2960200000,13855180.0,4.0,4.0,21367.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1519088000,1689480.0,3.0,2.0,900.0,Condo,2,12
+Klang. Selangor,1859150000,8515990.0,4.0,3.0,21831.0,House,3,8
+Petaling. Selangor,1624500000,11656690.0,3.0,3.0,13935.0,House,3,19
+Petaling. Selangor,2991968000,13613310.0,4.0,4.0,2198.0,House,3,19
+Petaling. Selangor,2847568000,13930990.0,4.0,3.0,20438.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,3093048000,15595200.0,4.0,4.0,19834.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,3429500000,34793180.0,3.0,2.0,9857.0,Serviced Apartment,5,12
+Gombak. Selangor,859180000,16573510.0,2.0,2.0,5184.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,2991968000,12638610.0,4.0,4.0,23671.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1508980000,11201830.0,3.0,3.0,1347.0,Condo,2,12
+Petaling. Selangor,2707500000,12671100.0,4.0,3.0,21367.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1825577000,18540960.0,3.0,2.0,9847.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1516200000,9068320.0,3.0,2.0,16722.0,Condo,2,12
+Petaling. Selangor,2635300000,30500890.0,3.0,2.0,864.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2454800000,10570080.0,5.0,5.0,23225.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1367468000,22649140.0,2.0,1.0,6038.0,Condo,2,12
+Petaling. Selangor,4002768000,17587920.0,5.0,5.0,2276.0,House,3,19
+Petaling. Selangor,1545080000,1144370.0,3.0,2.0,1350.0,Condo,2,19
+Seremban. Negeri Sembilan,1082996390,8967240.0,4.0,3.0,12077.0,Condo,2,24
+Kuala Lumpur. Kuala Lumpur,1498150000,1270720.0,3.0,2.0,1180.0,Condo,2,12
+Petaling. Selangor,1732800000,20959660.0,3.0,2.0,8268.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,3017960000,16573510.0,4.0,4.0,18208.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,3350080000,15678230.0,4.0,4.0,21367.0,House,3,12
+Petaling. Selangor,2346500000,30800520.0,3.0,2.0,7618.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,794200000,17096960.0,2.0,2.0,4645.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1906080000,13678290.0,3.0,2.0,13935.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2743600000,31089320.0,3.0,2.0,8825.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1516200000,1685870.0,3.0,3.0,900.0,Condo,2,12
+Petaling. Selangor,3999880000,16559070.0,5.0,5.0,24154.0,House,3,19
+Petaling. Selangor,2594868000,30100180.0,3.0,2.0,8621.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1913300000,18721460.0,3.0,2.0,10219.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1765734030,15342500.0,3.0,2.0,1151.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1869980000,13855180.0,3.0,3.0,13498.0,Condo,2,12
+Seremban. Negeri Sembilan,1083000000,12952680.0,2.0,2.0,8361.0,Condo,2,24
+Petaling. Selangor,884450000,17309950.0,2.0,2.0,5109.0,Condo,2,19
+Putrajaya. Putrajaya,758100000,16320810.0,2.0,1.0,4645.0,Condo,2,21
+Petaling. Selangor,2888000000,13515840.0,4.0,4.0,21367.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2166000000,25905360.0,3.0,2.0,8361.0,Condo,2,12
+Petaling. Selangor,1007190000,13551940.0,2.0,2.0,7432.0,Condo,2,19
+Ulu Langat. Selangor,1888030000,13988750.0,3.0,3.0,13498.0,Condo,2,25
+Sepang. Selangor,1263500000,10461780.0,4.0,3.0,12077.0,Condo,2,23
+Petaling. Selangor,830300000,14894860.0,2.0,2.0,5574.0,Condo,2,19
+Petaling. Selangor,2746488000,13436420.0,4.0,3.0,20438.0,House,3,19
+Gombak. Selangor,1367468000,6133390.0,4.0,4.0,22296.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,2707500000,30681390.0,3.0,2.0,8825.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2707500000,2909660.0,3.0,2.0,930.0,Condo,2,12
+Putrajaya. Putrajaya,866400000,17017540.0,1.0,1.0,5091.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,722000000,25905360.0,1.0,1.0,2787.0,Condo,2,12
+Petaling. Selangor,2888000000,14129540.0,4.0,3.0,20438.0,House,3,19
+Sepang. Selangor,1754460000,20306250.0,3.0,2.0,864.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,2558768000,2758040.0,3.0,2.0,928.0,Condo,2,12
+Petaling. Selangor,3068500000,13212600.0,4.0,4.0,23225.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,3747180000,14068170.0,5.0,5.0,26634.0,House,3,12
+Petaling. Selangor,1599230000,12295660.0,3.0,2.0,13006.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,3061280000,14328090.0,4.0,4.0,21367.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2732770000,31699410.0,3.0,2.0,8621.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2375380000,11118800.0,3.0,2.0,21367.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1740384610,15483290.0,3.0,2.0,11241.0,Condo,2,12
+Petaling. Selangor,1606450000,12349810.0,3.0,2.0,13006.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2989080000,13988750.0,4.0,4.0,21367.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2052285000,1700310.0,3.0,2.0,1208.0,Condo,2,12
+Petaling. Selangor,2989080000,996360.0,4.0,4.0,3000.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,830300000,17057250.0,2.0,2.0,4868.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2194880000,13995970.0,4.0,3.0,15682.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2591980000,27901690.0,3.0,2.0,929.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2154448000,12985170.0,3.0,3.0,16592.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1682260000,20345960.0,3.0,2.0,8268.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1548690000,18522910.0,3.0,2.0,8361.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1624500000,5830150.0,3.0,3.0,2787.0,Townhouse,6,12
+Gombak. Selangor,1913300000,20595050.0,3.0,2.0,929.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,2555880000,28963030.0,3.0,2.0,8825.0,Condo,2,12
+Gombak. Selangor,2906050000,13035710.0,4.0,4.0,22296.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,12454500000,36962790.0,5.0,5.0,33695.0,Condo,2,12
+Gombak. Selangor,1689480000,12988780.0,3.0,3.0,13006.0,Townhouse,6,2
+Kuala Lumpur. Kuala Lumpur,1761680000,1469270.0,3.0,2.0,1200.0,Condo,2,12
+Ulu Langat. Selangor,1981890000,14681870.0,3.0,3.0,13498.0,Condo,2,25
+Kuala Lumpur. Kuala Lumpur,1523015680,418760.0,4.0,4.0,3650.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1559520000,12252340.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2635300000,29551460.0,3.0,2.0,8918.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1685870000,19512050.0,3.0,2.0,864.0,Condo,2,12
+Petaling. Selangor,2274300000,29854700.0,3.0,2.0,7618.0,Condo,2,19
+Petaling. Selangor,2955868000,13833520.0,4.0,4.0,21367.0,House,3,19
+Petaling. Selangor,830300000,16613220.0,2.0,2.0,4998.0,Condo,2,19
+Petaling. Selangor,2996300000,1198520.0,4.0,4.0,2500.0,House,3,19
+Petaling. Selangor,862790000,17930870.0,2.0,2.0,4812.0,Condo,2,19
+Petaling. Selangor,830300000,16548240.0,2.0,2.0,5017.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1913300000,20190730.0,4.0,2.0,9476.0,Condo,2,12
+Petaling. Selangor,1563130000,12017690.0,3.0,2.0,13006.0,Condo,2,19
+Petaling. Selangor,6317500000,23450560.0,5.0,5.0,26941.0,House,3,19
+Petaling. Selangor,2989080000,13988750.0,4.0,4.0,21367.0,House,3,19
+Petaling. Selangor,1624500000,13050150.0,3.0,2.0,12449.0,Condo,2,19
+Petaling. Selangor,2955868000,13255920.0,4.0,4.0,22296.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1765290000,15165610.0,3.0,3.0,1164.0,Condo,2,12
+Petaling. Selangor,2591980000,27901690.0,3.0,2.0,929.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1487320000,8606240.0,3.0,2.0,17279.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1851930000,15335280.0,3.0,3.0,12077.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2960200000,17187210.0,4.0,4.0,17224.0,House,3,12
+Petaling. Selangor,2989080000,13407540.0,4.0,4.0,22296.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1624500000,13050150.0,3.0,2.0,12449.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1965933800,18104150.0,3.0,2.0,1086.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1552300000,12378690.0,3.0,2.0,12541.0,Condo,2,12
+Petaling. Selangor,3321200000,12328150.0,5.0,5.0,26941.0,House,3,19
+Petaling. Selangor,2815800000,13775760.0,4.0,3.0,20438.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2898108000,13634970.0,4.0,4.0,21256.0,House,3,12
+Labuan. Labuan,1552300000,11934660.0,3.0,2.0,13006.0,Condo,2,15
+Kuala Lumpur. Kuala Lumpur,2599200000,30082130.0,3.0,2.0,864.0,Condo,2,12
+Petaling. Selangor,1765290000,19855000.0,3.0,2.0,8891.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1552300000,12302880.0,3.0,2.0,12616.0,Condo,2,12
+Gombak. Selangor,2021600000,16739570.0,3.0,3.0,12077.0,Condo,2,2
+Kuala Langat. Selangor,2703890000,12934630.0,4.0,3.0,20903.0,House,3,11
+Kuala Lumpur. Kuala Lumpur,2021600000,16739570.0,3.0,3.0,12077.0,Condo,2,12
+Petaling. Selangor,722000000,15544660.0,2.0,2.0,4645.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1581180000,5869860.0,4.0,4.0,26941.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,3750068000,14234230.0,5.0,5.0,26346.0,House,3,12
+Gombak. Selangor,2486568000,14266720.0,3.0,3.0,17428.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,794200000,8548480.0,1.0,1.0,929.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1934960000,16624050.0,3.0,3.0,1164.0,Condo,2,12
+Gombak. Selangor,1714750000,6837340.0,3.0,3.0,25083.0,Townhouse,6,2
+Kuala Lumpur. Kuala Lumpur,1545080000,12320930.0,3.0,2.0,12541.0,Condo,2,12
+Petaling. Selangor,2166000000,25905360.0,3.0,2.0,8361.0,Condo,2,19
+Petaling. Selangor,1519088000,20963270.0,3.0,2.0,7246.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2129900000,16374960.0,3.0,2.0,13006.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1624500000,16190850.0,3.0,2.0,10033.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2254445000,23627450.0,3.0,2.0,9541.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2527000000,29248220.0,3.0,2.0,864.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1805000000,7772330.0,5.0,4.0,23225.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2952980000,1638940.0,4.0,4.0,1800.0,House,3,12
+Petaling. Selangor,1624500000,8743420.0,3.0,3.0,1858.0,House,3,19
+Kuala Langat. Selangor,3068500000,10544810.0,5.0,5.0,29096.0,House,3,11
+Kuala Lumpur. Kuala Lumpur,1599230000,12674710.0,3.0,2.0,12616.0,Condo,2,12
+Petaling. Selangor,1609338000,12927410.0,3.0,2.0,12449.0,Condo,2,19
+Gombak. Selangor,2808580000,14396680.0,4.0,3.0,19509.0,House,3,2
+Putrajaya. Putrajaya,1079390000,8938360.0,4.0,3.0,12077.0,Condo,2,21
+Petaling. Selangor,1552300000,18988600.0,3.0,2.0,8175.0,Condo,2,19
+Petaling. Selangor,2894498000,12624170.0,4.0,4.0,22928.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1624500000,12876870.0,3.0,2.0,12616.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2960200000,13855180.0,4.0,4.0,21367.0,House,3,12
+Putrajaya. Putrajaya,1082996390,8967240.0,4.0,3.0,12077.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,1768900000,1498150.0,3.0,2.0,1180.0,Condo,2,12
+Petaling. Selangor,2486568000,16028400.0,4.0,3.0,15514.0,House,3,19
+Putrajaya. Putrajaya,722000000,15544660.0,2.0,2.0,4645.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,794200000,28497340.0,1.0,1.0,2787.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1562408000,12277610.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1624500000,812250.0,3.0,3.0,2000.0,House,3,12
+Sepang. Selangor,877230000,18883910.0,1.0,1.0,4645.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,1552300000,11934660.0,3.0,2.0,13006.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,823080000,17721490.0,2.0,2.0,4645.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,830300000,17876720.0,2.0,1.0,4645.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2591980000,29999100.0,3.0,2.0,864.0,Condo,2,12
+Sepang. Selangor,902500000,17663730.0,2.0,2.0,5109.0,Condo,2,23
+Gombak. Selangor,1985500000,21371200.0,3.0,2.0,929.0,Condo,2,2
+Putrajaya. Putrajaya,8122500000,19429020.0,6.0,7.0,41805.0,House,3,21
+Kuala Lumpur. Kuala Lumpur,1545080000,11880510.0,3.0,3.0,13006.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1985500000,17057250.0,3.0,3.0,1164.0,Condo,2,12
+Petaling. Selangor,2707500000,13248700.0,4.0,3.0,20438.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1588400000,6840950.0,4.0,4.0,23225.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1566740000,12310100.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2483680000,14952620.0,3.0,3.0,16611.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1508980000,9667580.0,3.0,2.0,15607.0,Condo,2,12
+Gombak. Selangor,888060000,17443520.0,2.0,2.0,5091.0,Condo,2,2
+Gombak. Selangor,1545080000,1104660.0,3.0,2.0,1400.0,Condo,2,2
+Ulu Langat. Selangor,1909690000,16407450.0,3.0,3.0,1164.0,Condo,2,25
+Ulu Langat. Selangor,1963840000,11183780.0,4.0,3.0,17558.0,House,3,25
+Petaling. Selangor,1761680000,21071570.0,3.0,2.0,8361.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,830300000,16252220.0,2.0,2.0,5109.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1624500000,1249060.0,3.0,2.0,1300.0,Condo,2,12
+Gombak. Selangor,1545080000,12320930.0,3.0,2.0,12541.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1913300000,18721460.0,4.0,2.0,10219.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,833910000,8967240.0,3.0,2.0,9299.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2454800000,21140160.0,4.0,3.0,11613.0,House,3,12
+Petaling. Selangor,1606450000,12905750.0,3.0,2.0,12449.0,Condo,2,19
+Putrajaya. Putrajaya,830300000,17876720.0,2.0,2.0,4645.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,1805000000,1530640.0,3.0,2.0,1180.0,Condo,2,12
+Petaling. Selangor,3032400000,14190910.0,4.0,4.0,21367.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,13718000000,37601760.0,4.0,5.0,36482.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2555880000,2747210.0,3.0,2.0,930.0,Condo,2,12
+Petaling. Selangor,1083000000,16652930.0,2.0,2.0,6503.0,Condo,2,19
+Petaling. Selangor,1552300000,1108270.0,3.0,2.0,1400.0,Condo,2,19
+Petaling. Selangor,2989080000,10725310.0,4.0,3.0,2787.0,House,3,19
+Petaling. Selangor,2952980000,13819080.0,4.0,4.0,21367.0,House,3,19
+Sepang. Selangor,721996390,15544660.0,2.0,1.0,4645.0,Condo,2,23
+Putrajaya. Putrajaya,866400000,16959780.0,2.0,2.0,5109.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,1916188000,18414610.0,3.0,2.0,10405.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1519088000,18169130.0,3.0,2.0,8361.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1624500000,12490600.0,3.0,2.0,13006.0,Condo,2,12
+Petaling. Selangor,1660600000,6620740.0,3.0,3.0,25083.0,Townhouse,6,19
+Sepang. Selangor,1083000000,8967240.0,4.0,3.0,12077.0,Condo,2,23
+Kuala Lumpur. Kuala Lumpur,3068500000,13212600.0,4.0,3.0,23225.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1519088000,16353300.0,3.0,2.0,929.0,Condo,2,12
+Gombak. Selangor,3898800000,16266660.0,4.0,4.0,23968.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1737456900,14761290.0,3.0,2.0,1177.0,Condo,2,12
+Seremban. Negeri Sembilan,1776481000,407930.0,5.0,5.0,4355.0,House,3,24
+Petaling. Selangor,1606450000,1147980.0,3.0,2.0,1400.0,Condo,2,19
+Petaling. Selangor,1545080000,1104660.0,3.0,2.0,1400.0,Condo,2,19
+Petaling. Selangor,1508980000,11772210.0,3.0,3.0,1282.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1967450000,15689060.0,3.0,3.0,12541.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1624500000,541500.0,3.0,3.0,3000.0,House,3,12
+Petaling. Selangor,1588400000,1133540.0,3.0,2.0,1400.0,Condo,2,19
+Petaling. Selangor,1010800000,14508590.0,2.0,2.0,6967.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2898396800,13631360.0,4.0,4.0,21265.0,House,3,12
+Kuala Langat. Selangor,2093800000,9797540.0,4.0,3.0,21367.0,House,3,11
+Petaling. Selangor,830300000,8938360.0,2.0,2.0,929.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2274300000,29930510.0,3.0,2.0,7599.0,Condo,2,12
+Petaling. Selangor,1660600000,19927200.0,3.0,2.0,8333.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2808580000,14396680.0,4.0,3.0,19509.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1010800000,16739570.0,3.0,2.0,6038.0,Apartment,0,12
+Petaling. Selangor,2555880000,28963030.0,3.0,2.0,8825.0,Condo,2,19
+Petaling. Selangor,3999880000,15378600.0,5.0,5.0,26012.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,3133480000,14663820.0,4.0,4.0,21367.0,House,3,12
+Petaling. Selangor,2955868000,16501310.0,4.0,3.0,17911.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2486568000,28843900.0,3.0,2.0,8621.0,Condo,2,12
+Ulu Langat. Selangor,1949400000,10544810.0,4.0,3.0,18487.0,House,3,25
+Petaling. Selangor,2989080000,12869650.0,4.0,3.0,23225.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2050480000,15158390.0,3.0,3.0,13526.0,House,3,12
+Petaling. Selangor,12635000000,31367290.0,5.0,5.0,40281.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1805000000,19429020.0,3.0,2.0,929.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1660600000,13750490.0,3.0,2.0,12077.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,722000000,7765110.0,3.0,3.0,9299.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2375380000,20356790.0,3.0,3.0,11668.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,830300000,1187690.0,2.0,2.0,700.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2274300000,24479410.0,4.0,2.0,929.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1545080000,10393190.0,4.0,3.0,14864.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2256250000,20237660.0,3.0,2.0,11148.0,Condo,2,12
+Petaling. Selangor,2888000000,963870.0,4.0,4.0,3000.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,902500000,6938420.0,3.0,3.0,13006.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3176800000,11032160.0,6.0,5.0,28799.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2288740000,20530070.0,3.0,2.0,11148.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1551217000,12187360.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,902500000,13876840.0,2.0,2.0,6503.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2375380000,15880390.0,4.0,3.0,14957.0,House,3,12
+Petaling. Selangor,2952980000,13245090.0,4.0,4.0,22296.0,House,3,19
+Petaling. Selangor,1516200000,12089890.0,3.0,2.0,12541.0,Condo,2,19
+Petaling. Selangor,1689480000,12988780.0,3.0,3.0,13006.0,Townhouse,6,19
+Kuala Lumpur. Kuala Lumpur,2991968000,14075390.0,4.0,4.0,21256.0,House,3,12
+Petaling. Selangor,4002768000,17234140.0,5.0,4.0,23225.0,House,3,19
+Petaling. Selangor,2919768000,13663850.0,4.0,4.0,21367.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1689480000,15154780.0,3.0,3.0,11148.0,Townhouse,6,12
+Kuala Lumpur. Kuala Lumpur,1805000000,7772330.0,4.0,4.0,23225.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,2981860000,17190820.0,4.0,4.0,17344.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1721970000,19930810.0,3.0,2.0,864.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1841100000,1559520.0,3.0,2.0,1180.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1547968000,1104660.0,3.0,2.0,1400.0,Condo,2,12
+Petaling. Selangor,1588400000,12757740.0,3.0,2.0,12449.0,Condo,2,19
+Gombak. Selangor,1624500000,12876870.0,3.0,2.0,12616.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1985500000,23746580.0,3.0,2.0,8361.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2303180000,14685480.0,4.0,3.0,15682.0,House,3,12
+Petaling. Selangor,1624500000,12671100.0,3.0,2.0,1282.0,Condo,2,19
+Klang. Selangor,1444000000,11263200.0,3.0,2.0,1282.0,Condo,2,8
+Petaling. Selangor,2815800000,14432780.0,4.0,3.0,19509.0,House,3,19
+Gombak. Selangor,2989080000,13988750.0,4.0,4.0,21367.0,House,3,2
+Petaling. Selangor,1761680000,20389280.0,3.0,2.0,864.0,Condo,2,19
+Gombak. Selangor,1588400000,12757740.0,3.0,2.0,12449.0,Condo,2,2
+Gombak. Selangor,830300000,14894860.0,2.0,2.0,5574.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1606450000,12624170.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1551578000,10440120.0,3.0,3.0,14864.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1516200000,16129480.0,3.0,2.0,9401.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1913300000,1584790.0,3.0,3.0,12077.0,Condo,2,12
+Gombak. Selangor,2991968000,16104210.0,4.0,4.0,1858.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1945790000,16674590.0,3.0,3.0,11668.0,Condo,2,12
+Petaling. Selangor,8122500000,19006650.0,5.0,6.0,42734.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2594868000,11988810.0,4.0,4.0,21646.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1678650000,12905750.0,3.0,2.0,13006.0,Condo,2,12
+Petaling. Selangor,1689480000,20273760.0,3.0,2.0,8333.0,Condo,2,19
+Sepang. Selangor,2519780000,10848050.0,5.0,5.0,23225.0,Condo,2,23
+Ulu Langat. Selangor,1768900000,15198100.0,3.0,3.0,1164.0,Condo,2,25
+Kuala Lumpur. Kuala Lumpur,1552300000,12468940.0,3.0,2.0,12449.0,Condo,2,12
+Gombak. Selangor,1642550000,1216570.0,3.0,2.0,1350.0,House,3,2
+Petaling. Selangor,1552300000,11725280.0,3.0,3.0,13238.0,Condo,2,19
+Gombak. Selangor,1545080000,1144370.0,3.0,2.0,1350.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1756265000,1743630.0,3.0,2.0,1008.0,Condo,2,12
+Klang. Selangor,1444000000,11956320.0,3.0,2.0,12077.0,Condo,2,8
+Gombak. Selangor,4151500000,17187210.0,4.0,4.0,24154.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1548690000,1104660.0,3.0,2.0,1400.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1913300000,18389340.0,4.0,2.0,10405.0,Condo,2,12
+Petaling. Selangor,1191300000,20681690.0,2.0,2.0,576.0,Condo,2,19
+Ulu Langat. Selangor,1945790000,16111430.0,3.0,3.0,12077.0,Condo,2,25
+Petaling. Selangor,2818688000,14447220.0,4.0,4.0,19509.0,House,3,19
+Kuala Selangor. Selangor,1609338000,12927410.0,3.0,2.0,12449.0,Condo,2,14
+Petaling. Selangor,2989080000,20111310.0,4.0,4.0,14864.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1588400000,6108120.0,4.0,4.0,26012.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1732800000,15544660.0,3.0,3.0,11148.0,Condo,2,12
+Petaling. Selangor,3249000000,12061010.0,5.0,5.0,26941.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2454800000,14143980.0,3.0,3.0,17354.0,House,3,12
+Putrajaya. Putrajaya,830300000,16252220.0,2.0,2.0,5109.0,Condo,2,21
+Gombak. Selangor,1552300000,1108270.0,3.0,2.0,1400.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1624500000,15613250.0,3.0,3.0,10405.0,Condo,2,12
+Petaling. Selangor,2743600000,14064560.0,4.0,3.0,19509.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1913300000,1913300.0,3.0,2.0,1000.0,Condo,2,12
+Ulu Langat. Selangor,2166000000,10136880.0,5.0,4.0,21367.0,House,3,25
+Kuala Lumpur. Kuala Lumpur,722000000,14133150.0,2.0,1.0,5109.0,Condo,2,12
+Petaling. Selangor,1552300000,1151590.0,3.0,2.0,1350.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2707500000,2916880.0,3.0,2.0,928.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2233868000,14245060.0,4.0,3.0,15682.0,House,3,12
+Ulu Langat. Selangor,1985500000,17057250.0,3.0,3.0,1164.0,Condo,2,25
+Kuala Lumpur. Kuala Lumpur,1606450000,12905750.0,3.0,2.0,12449.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1805000000,12952680.0,3.0,2.0,13935.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1913300000,18389340.0,3.0,2.0,10405.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1545080000,11086310.0,3.0,3.0,13935.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2039650000,1689480.0,3.0,2.0,1208.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2848290000,17519330.0,4.0,4.0,16257.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1367468000,21970460.0,2.0,1.0,6224.0,Condo,2,12
+Petaling. Selangor,2707500000,12671100.0,4.0,4.0,21367.0,House,3,19
+Petaling. Selangor,938600000,14432780.0,2.0,2.0,6503.0,Condo,2,19
+Petaling. Selangor,866400000,17017540.0,2.0,2.0,5091.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2339280000,17985020.0,3.0,3.0,13006.0,House,3,12
+Petaling. Selangor,3204958000,15212540.0,4.0,4.0,2107.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2960200000,17050030.0,4.0,3.0,17363.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1807888000,17692610.0,3.0,2.0,10219.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1877200000,16840650.0,3.0,2.0,11148.0,Condo,2,12
+Gombak. Selangor,1913300000,18721460.0,3.0,2.0,10219.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1598508000,12559190.0,3.0,2.0,12727.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2274300000,2295960.0,3.0,2.0,990.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1552300000,12331760.0,3.0,2.0,12588.0,Condo,2,12
+Putrajaya. Putrajaya,866400000,16504920.0,1.0,1.0,5249.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,2454800000,21140160.0,4.0,3.0,11613.0,Condo,2,12
+Sepang. Selangor,938600000,13400320.0,3.0,2.0,7005.0,Condo,2,23
+Kuala Selangor. Selangor,3898800000,16266660.0,4.0,4.0,23968.0,House,3,14
+Ulu Langat. Selangor,2054090000,17645680.0,3.0,3.0,1164.0,Condo,2,25
+Kuala Lumpur. Kuala Lumpur,1617280000,19172710.0,3.0,2.0,8435.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,830300000,17187210.0,2.0,2.0,4831.0,Condo,2,12
+Petaling. Selangor,2483680000,10692820.0,5.0,5.0,23225.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1945790000,14414730.0,3.0,3.0,13498.0,Condo,2,12
+Petaling. Selangor,6461900000,15407480.0,6.0,6.0,41944.0,House,3,19
+Petaling. Selangor,1805000000,16190850.0,3.0,3.0,11148.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1732800000,15544660.0,4.0,3.0,11148.0,Condo,2,12
+Petaling. Selangor,1548690000,967480.0,3.0,2.0,1600.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,3971000000,29479260.0,3.0,2.0,1347.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1805000000,2097410.0,2.0,2.0,860.0,Condo,2,12
+Petaling. Selangor,2888000000,12952680.0,4.0,3.0,22296.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1512590000,10855270.0,3.0,3.0,13935.0,Condo,2,12
+Gombak. Selangor,3350080000,15678230.0,4.0,4.0,21367.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,1480100000,9956380.0,3.0,2.0,14864.0,Condo,2,12
+Petaling. Selangor,1591288000,12234290.0,3.0,2.0,13006.0,Condo,2,19
+Sepang. Selangor,902500000,19429020.0,2.0,2.0,4645.0,Condo,2,23
+Petaling. Selangor,794200000,15544660.0,2.0,2.0,5109.0,Condo,2,19
+Petaling. Selangor,2775368000,13894890.0,4.0,3.0,19973.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,2996300000,14021240.0,4.0,4.0,21367.0,House,3,12
+Petaling. Selangor,1548690000,584820.0,3.0,2.0,2650.0,Condo,2,19
+Petaling. Selangor,2888000000,12952680.0,4.0,4.0,22296.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,862790000,9205500.0,3.0,3.0,9374.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1548690000,12169310.0,3.0,2.0,12727.0,Condo,2,12
+Gombak. Selangor,2375380000,15237810.0,4.0,3.0,15589.0,House,3,2
+Kuala Lumpur. Kuala Lumpur,2815800000,13176500.0,4.0,4.0,21367.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1545080000,11880510.0,4.0,3.0,13006.0,Condo,2,12
+Petaling. Selangor,1660600000,11916610.0,3.0,3.0,13935.0,Townhouse,6,19
+Petaling. Selangor,2382600000,10620620.0,5.0,5.0,22435.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,2991246000,18006680.0,4.0,4.0,16611.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,1624500000,7136970.0,4.0,4.0,2276.0,Condo,2,12
+Gombak. Selangor,830300000,8938360.0,3.0,2.0,929.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,902500000,19046360.0,1.0,1.0,4738.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,3093409000,14811830.0,4.0,4.0,20884.0,House,3,12
+Kuala Lumpur. Kuala Lumpur,920550000,18696190.0,1.0,1.0,4924.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2847885680,33175900.0,3.0,2.0,8584.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,1917054400,15526610.0,3.0,2.0,12346.0,Condo,2,12
+Gombak. Selangor,1624500000,13050150.0,3.0,2.0,12449.0,Condo,2,2
+Petaling. Selangor,1624500000,12490600.0,3.0,3.0,13006.0,Condo,2,19
+Kuala Lumpur. Kuala Lumpur,1083000000,16652930.0,2.0,2.0,6503.0,Condo,2,12
+Kuala Lumpur. Kuala Lumpur,2594868000,30100180.0,3.0,2.0,8621.0,Condo,2,12
+Sepang. Selangor,902500000,13876840.0,2.0,2.0,6503.0,Condo,2,23
+Petaling. Selangor,1508980000,11602540.0,3.0,3.0,13006.0,Condo,2,19
+Ulu Langat. Selangor,1869980000,10064680.0,4.0,3.0,1858.0,House,3,25
+Petaling. Selangor,830300000,15461630.0,2.0,2.0,537.0,Condo,2,19
+Petaling. Selangor,866400000,16656540.0,2.0,2.0,5202.0,Condo,2,19
+Gombak. Selangor,2984748000,13447250.0,4.0,4.0,22194.0,House,3,2
+Petaling. Selangor,3061280000,14328090.0,4.0,4.0,21367.0,House,3,19
+Kuala Lumpur. Kuala Lumpur,1545080000,18479590.0,3.0,2.0,8361.0,Condo,2,12
+Petaling. Selangor,1624500000,1046900.0,3.0,3.0,1550.0,House,3,19
+Petaling. Selangor,2815800000,30309560.0,3.0,2.0,929.0,Condo,2,19
+Putrajaya. Putrajaya,938600000,14432780.0,2.0,2.0,6503.0,Condo,2,21
+Kuala Lumpur. Kuala Lumpur,2888000000,15894830.0,4.0,3.0,18171.0,House,3,12
+Gombak. Selangor,1797780000,15443580.0,3.0,3.0,1164.0,Condo,2,2
+Kuala Lumpur. Kuala Lumpur,1547968000,19194370.0,3.0,2.0,8064.0,Condo,2,12
+Ulu Langat. Selangor,1765290000,12667490.0,3.0,3.0,13935.0,Condo,2,25
+Gombak. Selangor,1606450000,12732470.0,3.0,2.0,12616.0,Condo,2,2
